@@ -8,6 +8,11 @@ This is a simple web application for managing your daily tasks and plans. It all
 - Delete plans
 - Mark plans as done
 
+![Screenshot of daily planner app](public/Ss.DailyPlanner.1.png "Daily Planner App")
+![Screenshot of daily planner app](public/Ss.DailyPlanner.2.png "Daily Planner App")
+![Screenshot of daily planner app](public/Ss.DailyPlanner.3.png "Daily Planner App")
+
+
 ## Installation and Setup
 To use this application, you need to have Node.js and npm (or yarn) installed on your system. Once you have installed these prerequisites, follow these steps:
 
@@ -25,6 +30,10 @@ To use the application, follow these steps:
 3. To edit an existing plan, click the "edit" button on the plan card, make your changes, and click the "save" button.
 4. To mark a plan as done, click the "done" button on the plan card.
 5. To delete a plan, click the "delete" button on the plan card.
+
+## Responsive Design
+![Screenshot of daily planner app](public/Ss.DailyPlanner.5.png "Daily Planner App")
+![Screenshot of daily planner app](public/Ss.DailyPlanner.4.png "Daily Planner App")
 
 ## Contributing
 If you find a bug or have a suggestion for improving the application, please open an issue or submit a pull request on GitHub. Contributions are always welcome!
